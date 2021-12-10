@@ -1,0 +1,13 @@
+C:\csharp_udemy\MathQuizz\MathQuizz\bin\Debug\netcoreapp3.1\MathQuizz.exe
+C:\csharp_udemy\MathQuizz\MathQuizz\bin\Debug\netcoreapp3.1\MathQuizz.deps.json
+C:\csharp_udemy\MathQuizz\MathQuizz\bin\Debug\netcoreapp3.1\MathQuizz.runtimeconfig.json
+C:\csharp_udemy\MathQuizz\MathQuizz\bin\Debug\netcoreapp3.1\MathQuizz.runtimeconfig.dev.json
+C:\csharp_udemy\MathQuizz\MathQuizz\bin\Debug\netcoreapp3.1\MathQuizz.dll
+C:\csharp_udemy\MathQuizz\MathQuizz\bin\Debug\netcoreapp3.1\MathQuizz.pdb
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.csproj.AssemblyReference.cache
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.AssemblyInfoInputs.cache
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.AssemblyInfo.cs
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.csproj.CoreCompileInputs.cache
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.dll
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.pdb
+C:\csharp_udemy\MathQuizz\MathQuizz\obj\Debug\netcoreapp3.1\MathQuizz.genruntimeconfig.cache
